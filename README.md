@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello! I'm JuanTrujilloM
 
-<!--
-**JuanTrujilloM/JuanTrujilloM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Systems Engineering** student  
+💻 I love working with **Python**, **C++**, **web development**, and **data science**  
+🚀 I'm currently exploring projects in **mobile app development**, **web applications**, and **data analytics**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- Programming Languages: **Python**, **C++**
+- Web: **HTML**, **CSS**, basic **JavaScript**
+- Tools: **Git**, **GitHub**, **VSCode**
+
+---
+
+## 📊 GitHub Stats
+
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanTrujilloM&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+
+- GitHub: [JuanTrujilloM](https://github.com/JuanTrujilloM)
+- LinkedIn: [Juan Esteban Trujillo Montes](https://www.linkedin.com/in/juan-esteban-trujillo-montes-714a34365/)
