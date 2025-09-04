@@ -1,7 +1,7 @@
 # 👋 Hello! I'm JuanTrujilloM
 
 🎓 I'm a **Systems Engineering** student  
-💻 I love working with **Python**, **C++**, **web development**, and **data science**  
+💻 I work with **Python**, **C++**, **web development**, and **data science**  
 🚀 I'm currently exploring projects in **mobile app development**, **web applications**, and **data analytics**  
 
 ---
